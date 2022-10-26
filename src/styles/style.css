@@ -1,4 +1,19 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  all: unset;
   background-color: steelblue;
+  color: white;
+  font: bolder;
+  padding-inline: 20px;
+  padding-block: 10px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+
+a:hover {
+  background-color: cadetblue;
+  cursor: pointer;
 }
