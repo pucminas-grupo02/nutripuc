@@ -1,4 +1,4 @@
-# Template de Projeto
+# Projeto Nutripuc
 
 Este é um repositório que tem como principal objetivo
 documentar e publicar o projeto desenvolvido na disciplina Projeto: Aplicações Web da graduação em Sistemas Para Internet da PUC Minas.
